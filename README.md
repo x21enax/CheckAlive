@@ -15,7 +15,7 @@ CheckAlive is a Python tool that allows you to check the status of URLs and find
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/checkalive.git
+    git clone [https://github.com/yourusername/checkalive.git](https://github.com/x21enax/CheckAlive)
     cd checkalive
     ```
 
